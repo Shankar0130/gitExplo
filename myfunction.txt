@@ -4,4 +4,12 @@ programming {
 }
 string lov(){
 return print("i love this");
+return print("i love python");
+return print("i love javascript");
+}
+int lov(){
+python = 1;
+java = 2;
+c = 3;
+javascript = 4;
 }
