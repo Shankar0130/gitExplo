@@ -1,0 +1,7 @@
+programming {
+  any = java;
+  lang = lov();
+}
+string lov(){
+return print("i love this");
+}
