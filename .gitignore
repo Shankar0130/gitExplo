@@ -1,1 +1,6 @@
-# this is git ignore file
+#this is git ignore file
+
+*.js
+my_name/
+!app.js
+DS_Store
