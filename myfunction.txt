@@ -13,3 +13,8 @@ java = 2;
 c = 3;
 javascript = 4;
 }
+int lov(){
+add = 1;
+add <filename> = 2;
+git commit = 3;
+}
