@@ -18,3 +18,5 @@ add = 1;
 add <filename> = 2;
 git commit = 3;
 }
+
+Added a chart function in my program
