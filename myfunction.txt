@@ -25,3 +25,5 @@ Added a chart function in my program
 added a new function
 
 delhi, goa, mumbai, kolkata
+
+Bangalore, Chennai, Coimbatore
