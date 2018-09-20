@@ -23,3 +23,5 @@ git commit = 3;
 Added a chart function in my program
 
 added a new function
+
+delhi, goa, mumbai, kolkata
